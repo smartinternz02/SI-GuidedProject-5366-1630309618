@@ -1,0 +1,37 @@
+Link to the project files:-
+https://drive.google.com/drive/folders/1CxxBi7WNGCnZFmtqLMzozdw98Bdw1YIi?usp=sharing
+
+File structure as follows:-
+-> Dataset
+   - train_set
+     - Crack
+     - Flake
+     - Roof
+   - test_set
+     - Crack
+     - Flake
+     - Roof
+-> Flask
+   - static
+     - css
+       - main.css
+   - templates
+     - end.html
+     - home.html
+   - defects.py
+   - model_building_defects_vgg16.h5
+-> Model Building
+   - .ipynb_checkpoints
+   - building defects
+    - train_set
+     - Crack
+     - Flake
+     - Roof
+    - test_set
+     - Crack
+     - Flake
+     - Roof 
+   - Building Defects Project.ipynb
+   - model_building_defects_vgg16.h5
+-> Training Model with IBM
+   -IBM Training Model.ipynb 
